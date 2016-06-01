@@ -13,11 +13,12 @@ import android.widget.TextView;
 
 public class MainActivity extends Activity {
     private TextView tv;
+    private TextView tv2;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        11;
+
     }
 
     @Override
